@@ -1,9 +1,7 @@
-package factorymethod;
 
 public class Oppilas extends AterioivaOtus {
 
-    public Juoma createJuoma(){
-        return new Mehu();
+	public Juoma createJuoma(){
+        return new Maito();
     };
-
 }

@@ -1,4 +1,3 @@
-package factorymethod;
 
 public class Mehu implements Juoma{
 

@@ -1,4 +1,3 @@
-package factorymethod;
 
 public class Maito implements Juoma{
 
